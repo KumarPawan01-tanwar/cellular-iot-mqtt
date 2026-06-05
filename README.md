@@ -10,6 +10,9 @@ Simulated SIM800L GSM module telemetry pipeline over MQTT to cloud broker.
 - Publishes structured JSON telemetry every 5 seconds to HiveMQ cloud broker
 - Mirrors real automotive TCU/IoT module data pipeline architecture
 
+## Telemetry Graph
+[Telemetry](results/telemetry_graph.png)
+
 ## Technologies
 | Layer | Technology |
 |---|---|
