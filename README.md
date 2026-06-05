@@ -13,6 +13,9 @@ Simulated SIM800L GSM module telemetry pipeline over MQTT to cloud broker.
 ## Telemetry Graph
 [Telemetry](results/telemetry_graph.png)
 
+## Terminal Output
+![Terminal](results/terminal_output.png)
+
 ## Technologies
 | Layer | Technology |
 |---|---|
